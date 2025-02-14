@@ -1,0 +1,14 @@
+{
+    "list": [
+        {
+            "name": "backup",
+            "version": "1.0.0",
+            "section": "chat",
+            "maintainer": "raye",
+            "size": "1.0 kb",
+            "supported": true,
+            "des_short": "backup",
+            "des": "backup"
+        }
+    ]
+}
